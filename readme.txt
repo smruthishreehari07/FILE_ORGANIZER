@@ -13,7 +13,7 @@ Technologies Used
 Python 3
 OS Module
 
-💻 How It Works
+How It Works
 Retrieves all files from the current working directory using os.listdir().
 Filters files that have the .pdf extension.
 Creates a directory named folder if it doesn't exist.
