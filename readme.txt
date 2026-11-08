@@ -8,7 +8,8 @@ Creates a folder named folder if it doesn't already exist.
 Moves all PDF files into the newly created folder.
 Renames the files sequentially (file1.pdf, file2.pdf, etc.).
 Uses Python's built-in libraries (os), so no external dependencies are required.
-🛠️ Technologies Used
+
+Technologies Used
 Python 3
 OS Module
 
