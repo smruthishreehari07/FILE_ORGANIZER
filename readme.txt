@@ -2,7 +2,7 @@ File Organizer
 
 A simple Python script that automatically organizes all PDF files in the current directory into a separate folder named folder.
 
-📌 Features
+Features
 Automatically identifies all PDF files in the current directory.
 Creates a folder named folder if it doesn't already exist.
 Moves all PDF files into the newly created folder.
