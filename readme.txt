@@ -1,5 +1,4 @@
 File Organizer
-
 A simple Python script that automatically organizes all PDF files in the current directory into a separate folder named folder.
 
 Features
